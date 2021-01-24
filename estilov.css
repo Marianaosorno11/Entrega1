@@ -1,0 +1,64 @@
+.nombre{
+position: absolute;
+	left: 11%;
+	top: 3%;
+
+}
+.yo{
+position: absolute;
+left: 70%;
+top: 0%;
+}
+.insta{
+	position: absolute;
+left: 88%;
+top: 5%;
+}
+.pinterest{
+	position: absolute;
+left: 89.3%;
+top: 15%;
+}
+
+.facebook{
+	position: absolute;
+left: 89.1%;
+top: 25%;
+}
+.linea{
+	position: absolute;
+	left: 3%;
+}
+
+.P1{
+position: absolute;
+top: 40%;
+left: 10%;
+}
+.P2{
+position: absolute;
+top: 40%;
+left: 31%;
+}
+.P3{
+position: absolute;
+top: 40%;
+left: 52%;
+}
+.P4{
+position: absolute;
+top: 40%;
+left: 73%;
+}
+.inicio{
+	position: absolute;
+	left: 79%;
+top: 80%;
+}
+
+
+
+
+
+
+
